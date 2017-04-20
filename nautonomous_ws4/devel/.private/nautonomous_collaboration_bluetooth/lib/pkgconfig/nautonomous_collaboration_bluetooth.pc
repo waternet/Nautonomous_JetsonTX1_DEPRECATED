@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth
+
+Name: nautonomous_collaboration_bluetooth
+Description: Description of nautonomous_collaboration_bluetooth
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib 
+Requires: 

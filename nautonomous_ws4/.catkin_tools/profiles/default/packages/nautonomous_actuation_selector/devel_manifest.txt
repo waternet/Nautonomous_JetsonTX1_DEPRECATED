@@ -1,0 +1,7 @@
+WaternetNautonomous/WaternetNautonomousActuation/nautonomous_actuation_selector
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/lib/libautonomous_output.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libautonomous_output.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/lib/libmanual_output.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libmanual_output.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/lib/nautonomous_actuation_selector/output_multiplexer /home/ubuntu/ROS/nautonomous_ws4/devel/lib/nautonomous_actuation_selector/output_multiplexer
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/lib/pkgconfig/nautonomous_actuation_selector.pc /home/ubuntu/ROS/nautonomous_ws4/devel/lib/pkgconfig/nautonomous_actuation_selector.pc
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig-version.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig-version.cmake
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_selector/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig.cmake

@@ -1,0 +1,46 @@
+#include "ros/ros.h"
+#include "nautonomous_navigation_navigate/AddTwoInts.h"
+#include <cstdlib>
+
+int main(int argc, char **argv)
+{
+	ros::init(argc, argv, "add_two_ints_client");
+	
+	float current[] = {52.36727, 4.93093};
+	ros::NodeHandle n;
+	ros::ServiceClient client = n.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+	nautonomous_navigation_navigate::AddTwoInts srv;
+	srv.request.a = 0;
+	srv.request.b = 0;
+	//srv.request.c = 52.36905;
+	//srv.request.d = 4.89248;
+	srv.request.c = 52.387626;
+	srv.request.d = 4.891169;
+
+	ROS_INFO("Add two ints");
+
+	while (ros::ok())
+	{
+		srv.request.a = current[0];
+		srv.request.b = current[1];
+	
+		ROS_INFO("Add two ints 2");
+
+		if (client.call(srv))
+		{
+			int x = srv.response.x;
+			int y = srv.response.y;
+			float lat = srv.response.lat;
+			float lon = srv.response.lon;
+					ROS_INFO("Add two ints 3");
+			ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);
+		}
+		else
+		{
+			ROS_ERROR("Failed to call service add_two_ints");
+			return 1;
+		}
+	}
+
+	return 0;
+}

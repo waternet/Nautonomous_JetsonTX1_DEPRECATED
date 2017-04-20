@@ -1,0 +1,4 @@
+# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
+
+set(nautonomous_serverconnection_logger_server_MSG_INCLUDE_DIRS "/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_serverconnection_logger_server/msg")
+set(nautonomous_serverconnection_logger_server_MSG_DEPENDENCIES std_msgs;sensor_msgs)

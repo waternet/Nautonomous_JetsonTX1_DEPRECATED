@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_logging_msgs/share/nautonomous_logging_msgs/cmake/nautonomous_logging_msgsConfig.cmake

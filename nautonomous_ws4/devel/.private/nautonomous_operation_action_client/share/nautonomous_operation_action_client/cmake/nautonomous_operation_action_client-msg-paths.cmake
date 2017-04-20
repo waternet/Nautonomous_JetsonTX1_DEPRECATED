@@ -1,0 +1,4 @@
+# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
+
+set(nautonomous_operation_action_client_MSG_INCLUDE_DIRS "/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg;/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/msg")
+set(nautonomous_operation_action_client_MSG_DEPENDENCIES actionlib_msgs;std_msgs;geometry_msgs)

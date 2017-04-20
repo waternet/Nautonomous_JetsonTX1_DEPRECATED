@@ -1,0 +1,75 @@
+<launch>
+	<!-- vim: set ft=xml noet : -->
+	<arg name="simulate" value="false"/>
+	<arg name="routing" value="true"/>
+	<arg name="logging" value="false"/>
+	<arg name="camera" value="false"/>
+	<arg name="output_comm" value="true"/>
+
+
+	<!--sensors-->
+
+	<!--<include file="$(find " unless="$(arg simulate)">
+		<arg name="log" value="$(arg logging)" />
+	</include>-->
+	
+	<include file="$(find razor_imu_9dof)/launch/razor-pub.launch" unless="$(arg simulate)"></include>
+
+	<include file="$(find zed_wrapper)/launch/zed.launch" if="$(arg camera)">
+	</include>
+	<include file="$(find nautonomous_navigation_configuration)/launch/laser/depthtolaser.launch" if="$(arg camera)">
+	</include>
+	<include file="$(find nautonomous_navigation_gps)/launch/ublox_gps_coenhaven.launch" unless="$(arg simulate)">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+	<include file="$(find nautonomous_navigation_configuration)/launch/move_base.launch" if="$(arg routing)">
+	</include>
+
+	<!-- crop server -->
+	<include file="$(find nautonomous_navigation_navigate)/launch/navigate.launch" if="$(arg routing)">
+	</include>
+
+	<!-- ODOM-->   
+	<include file="$(find nautonomous_navigation_configuration)/launch/pose/ekf_with_gps.launch">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+
+	<!-- TF-->
+	<include file="$(find nautonomous_navigation_configuration)/launch/map/coenhaven.launch">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+	<include file="$(find nautonomous_navigation_transform)/launch/nautonomous_tf.launch">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+
+	<include file="$(find nautonomous_operation_action_client)/launch/action_client.launch" if="$(arg routing)">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+	<include file="$(find nautonomous_operator_actuation)/launch/operator_lowlevel.launch">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+	<include file="$(find nautonomous_actuation_selector)/launch/output_multiplexer.launch">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+	//output
+	<include file="$(find nautonomous_actuation_simulator)/launch/propulsion_sim.launch" if="$(arg simulate)">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+	<include file="$(find nautonomous_actuation_synchronizer)/launch/send_actuation.launch" if="$(arg output_comm)">
+		<arg name="log" value="$(arg logging)" />
+	</include>
+
+	<include file="$(find rosbridge_server)/launch/rosbridge_tcp.launch"> 
+     		<arg name="port" value="8080"/>
+	</include>
+
+	<node name="rviz_visualizer" pkg="rviz" type="rviz"/>
+	
+
+</launch>

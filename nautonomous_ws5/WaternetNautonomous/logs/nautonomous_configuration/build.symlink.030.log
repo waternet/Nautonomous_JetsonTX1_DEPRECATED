@@ -1,0 +1,3 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/nautonomous_configuration.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_configuration/cmake/nautonomous_configurationConfig.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_configuration/cmake/nautonomous_configurationConfig-version.cmake

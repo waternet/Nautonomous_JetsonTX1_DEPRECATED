@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_operation_action/share/roseus/ros/nautonomous_operation_action/msg/MissionFeedback.l

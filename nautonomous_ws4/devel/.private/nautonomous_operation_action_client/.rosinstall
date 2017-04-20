@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/setup.sh

@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_navigation_navigate/share/gennodejs/ros/nautonomous_navigation_navigate/base_deserialize.js

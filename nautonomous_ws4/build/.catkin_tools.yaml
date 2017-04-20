@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/ROS/nautonomous_ws4/devel
+install: false
+install_space: /home/ubuntu/ROS/nautonomous_ws4/install
+profile: default
+source_space: /home/ubuntu/ROS/nautonomous_ws4/src
+workspace: /home/ubuntu/ROS/nautonomous_ws4

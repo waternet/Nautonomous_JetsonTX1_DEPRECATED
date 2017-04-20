@@ -1,0 +1,48 @@
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:48:3:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K`[m[K’ in program
+   ` 
+[01;32m[K   ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:13:47:[m[K [01;31m[Kerror: [m[K‘[01m[Knautonomous_navigation_navigate[m[K’ was not declared in this scope
+  ros::ServiceClient client = nh.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+[01;32m[K                                               ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:13:33:[m[K [01;31m[Kerror: [m[Kparse error in template argument list
+  ros::ServiceClient client = nh.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+[01;32m[K                                 ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:13:106:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kros::NodeHandle::serviceClient(const char [13])[m[K’
+  ros::ServiceClient client = nh.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+[01;32m[K                                                                                                          ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:45:0[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/../include/nautonomous_operation_action_client/OperationManager.h:4[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:1[m[K:
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:1239:17:[m[K [01;36m[Knote: [m[Kcandidate: template<class MReq, class MRes> ros::ServiceClient ros::NodeHandle::serviceClient(const string&, bool, const M_string&)
+   ServiceClient serviceClient(const std::string& service_name, bool persistent = false, 
+[01;32m[K                 ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:1239:17:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:13:106:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  ros::ServiceClient client = nh.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+[01;32m[K                                                                                                          ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:45:0[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/../include/nautonomous_operation_action_client/OperationManager.h:4[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:1[m[K:
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:1259:17:[m[K [01;36m[Knote: [m[Kcandidate: template<class Service> ros::ServiceClient ros::NodeHandle::serviceClient(const string&, bool, const M_string&)
+   ServiceClient serviceClient(const std::string& service_name, bool persistent = false, 
+[01;32m[K                 ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:1259:17:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:13:106:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  ros::ServiceClient client = nh.serviceClient<nautonomous_navigation_navigate::AddTwoInts>("add_two_ints");
+[01;32m[K                                                                                                          ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:14:2:[m[K [01;31m[Kerror: [m[K‘[01m[Knautonomous_navigation_navigate[m[K’ is not a class, namespace, or enumeration
+  nautonomous_navigation_navigate::AddTwoInts srv;
+[01;32m[K  ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:15:2:[m[K [01;31m[Kerror: [m[K‘[01m[Ksrv[m[K’ was not declared in this scope
+  srv.request.c = 52.36905;
+[01;32m[K  ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:38:4:[m[K [01;31m[Kerror: [m[K‘[01m[KnextPosition_[m[K’ was not declared in this scope
+    nextPosition_ = geometry_msgs::Point();
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:43:4:[m[K [01;31m[Kerror: [m[K‘[01m[KnextOrientation_[m[K’ was not declared in this scope
+    nextOrientation_ = geometry_msgs::Quaternion();
+[01;32m[K    ^[m[K
+make[2]: *** [CMakeFiles/operation_manager.dir/src/OperationManager.cpp.o] Error 1
+make[1]: *** [CMakeFiles/operation_manager.dir/all] Error 2
+make: *** [all] Error 2

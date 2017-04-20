@@ -1,0 +1,4 @@
+WaternetNautonomous/WaternetNautonomousNavigation/nautonomous_navigation_ublox/ublox_serialization
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/ublox_serialization/lib/pkgconfig/ublox_serialization.pc /home/ubuntu/ROS/nautonomous_ws4/devel/lib/pkgconfig/ublox_serialization.pc
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/ublox_serialization/share/ublox_serialization/cmake/ublox_serializationConfig-version.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/ublox_serialization/cmake/ublox_serializationConfig-version.cmake
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/ublox_serialization/share/ublox_serialization/cmake/ublox_serializationConfig.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/ublox_serialization/cmake/ublox_serializationConfig.cmake

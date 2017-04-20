@@ -1,0 +1,6 @@
+[ 16%] Built target serial_unix
+[ 50%] Built target send_actuation
+[ 50%] Built target receive_actuation
+[ 66%] Built target sabertooth
+[ 83%] Built target serial
+[100%] Built target command_actuation

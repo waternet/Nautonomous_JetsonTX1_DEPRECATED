@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionAction.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionActionGoal.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionActionResult.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionActionFeedback.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionGoal.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionResult.msg;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg/MissionFeedback.msg;/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/msg/Operation.msg;/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/msg/Status.msg"
+services_str = ""
+pkg_name = "nautonomous_operation_action_client"
+dependencies_str = "actionlib_msgs;std_msgs;geometry_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "nautonomous_operation_action_client;/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/nautonomous_operation_action_client/msg;nautonomous_operation_action_client;/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/msg;actionlib_msgs;/opt/ros/kinetic/share/actionlib_msgs/cmake/../msg;std_msgs;/opt/ros/kinetic/share/std_msgs/cmake/../msg;geometry_msgs;/opt/ros/kinetic/share/geometry_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/kinetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

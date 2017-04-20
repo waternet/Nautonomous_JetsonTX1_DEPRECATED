@@ -1,0 +1,5 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/libublox_gps.so
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/ublox_gps/ublox_gps
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/ublox_gps.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/ublox_gps/cmake/ublox_gpsConfig-version.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/ublox_gps/cmake/ublox_gpsConfig.cmake

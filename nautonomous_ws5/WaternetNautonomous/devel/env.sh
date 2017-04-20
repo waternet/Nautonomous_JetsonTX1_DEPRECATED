@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/catkin_tools_prebuild/env.sh

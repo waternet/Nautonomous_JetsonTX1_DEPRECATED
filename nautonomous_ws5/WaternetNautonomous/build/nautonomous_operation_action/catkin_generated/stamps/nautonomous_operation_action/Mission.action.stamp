@@ -1,0 +1,8 @@
+#goal definition
+nautonomous_operation_action/Operation operation
+---
+#result definition
+nautonomous_operation_action/Status result
+---
+#feedback
+nautonomous_operation_action/Status feedback

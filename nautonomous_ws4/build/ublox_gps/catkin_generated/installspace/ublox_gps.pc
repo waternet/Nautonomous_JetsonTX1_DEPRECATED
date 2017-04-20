@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws4/install
+
+Name: ublox_gps
+Description: Description of ublox_gps
+Version: 0.0.4
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws4/install/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws4/install/lib -lublox_gps
+Requires: roscpp ublox_msgs ublox_serialization

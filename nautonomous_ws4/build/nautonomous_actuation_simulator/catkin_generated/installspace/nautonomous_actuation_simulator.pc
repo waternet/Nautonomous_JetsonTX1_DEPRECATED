@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws4/install
+
+Name: nautonomous_actuation_simulator
+Description: Description of nautonomous_actuation_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/ROS/nautonomous_ws4/install/lib 
+Requires: 

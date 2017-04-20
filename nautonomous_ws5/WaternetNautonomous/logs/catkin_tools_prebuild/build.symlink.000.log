@@ -1,0 +1,8 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/./setup.zsh
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/./setup.bash
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/./env.sh
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/./setup.sh
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/./_setup_util.py
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

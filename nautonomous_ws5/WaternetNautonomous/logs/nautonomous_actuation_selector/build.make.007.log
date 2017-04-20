@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target manual_output[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/manual_output.dir/src/ManualOutput.cpp.o[0m
+[35m[1mScanning dependencies of target autonomous_output[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/autonomous_output.dir/src/AutonomousOutput.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_selector/lib/libmanual_output.so[0m
+[ 50%] Built target manual_output
+[ 66%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_selector/lib/libautonomous_output.so[0m
+[ 66%] Built target autonomous_output
+[35m[1mScanning dependencies of target output_multiplexer[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/output_multiplexer.dir/src/OutputMultiplexer.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_selector/lib/nautonomous_actuation_selector/output_multiplexer[0m
+[100%] Built target output_multiplexer

@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_logging_msgs/share/roseus/ros/nautonomous_logging_msgs/manifest.l

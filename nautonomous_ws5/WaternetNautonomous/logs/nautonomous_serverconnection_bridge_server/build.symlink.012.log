@@ -1,0 +1,3 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/nautonomous_serverconnection_bridge_server.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_serverconnection_bridge_server/cmake/nautonomous_serverconnection_bridge_serverConfig-version.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_serverconnection_bridge_server/cmake/nautonomous_serverconnection_bridge_serverConfig.cmake

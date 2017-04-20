@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target nautonomous_propulsion_sim[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/nautonomous_propulsion_sim.dir/src/NautonomousPropulsionSim.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_simulator/lib/nautonomous_actuation_simulator/nautonomous_propulsion_sim[0m
+[100%] Built target nautonomous_propulsion_sim

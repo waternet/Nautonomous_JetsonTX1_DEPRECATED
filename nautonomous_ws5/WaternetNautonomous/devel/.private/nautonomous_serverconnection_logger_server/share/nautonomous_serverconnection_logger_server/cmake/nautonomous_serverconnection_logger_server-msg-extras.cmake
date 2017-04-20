@@ -1,0 +1,2 @@
+set(nautonomous_serverconnection_logger_server_MESSAGE_FILES "/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_serverconnection_logger_server/msg/IsAuth.msg;/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_serverconnection_logger_server/msg/LogGPS.msg")
+set(nautonomous_serverconnection_logger_server_SERVICE_FILES "")

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -L/usr/local/lib  -g  -shared -Wl,-soname,libsabertooth.so -o /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_synchronizer/lib/libsabertooth.so CMakeFiles/sabertooth.dir/src/Sabertooth.cpp.o 

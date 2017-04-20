@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target gps_odometry_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gps_odometry_node.dir/src/gps_odometry_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_navigation_odometry/lib/nautonomous_navigation_odometry/gps_odometry_node[0m
+[100%] Built target gps_odometry_node

@@ -1,0 +1,7 @@
+[ 25%] Built target wpk_odometry_node
+[ 50%] Built target utm_odometry_node
+[ 75%] Built target amsterdam_odometry_node
+[35m[1mScanning dependencies of target coenhaven_odometry_node[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/coenhaven_odometry_node.dir/src/coenhaven_odometry_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_navigation_gps/lib/nautonomous_navigation_gps/coenhaven_odometry_node[0m
+[100%] Built target coenhaven_odometry_node

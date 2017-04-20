@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_operation_action
+
+Name: nautonomous_operation_action
+Description: Description of nautonomous_operation_action
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_operation_action/include -I/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_operation_action/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_operation_action/lib -lnautonomous_operation_action
+Requires: actionlib_msgs message_runtime

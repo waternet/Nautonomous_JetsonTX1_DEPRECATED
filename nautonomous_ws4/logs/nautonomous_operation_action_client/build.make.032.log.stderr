@@ -1,0 +1,31 @@
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:48:3:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K`[m[K’ in program
+   ` 
+[01;32m[K   ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:15:14:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Request {aka struct rospy_tutorials::AddTwoIntsRequest_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kc[m[K’
+  srv.request.c = 52.36905;
+[01;32m[K              ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:16:14:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Request {aka struct rospy_tutorials::AddTwoIntsRequest_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kd[m[K’
+  srv.request.d = 4.89248;
+[01;32m[K              ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:38:4:[m[K [01;31m[Kerror: [m[K‘[01m[KnextPosition_[m[K’ was not declared in this scope
+    nextPosition_ = geometry_msgs::Point();
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:39:35:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Response {aka struct rospy_tutorials::AddTwoIntsResponse_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kx[m[K’
+    nextPosition_.x = srv.response.x;
+[01;32m[K                                   ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:40:35:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Response {aka struct rospy_tutorials::AddTwoIntsResponse_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Ky[m[K’
+    nextPosition_.y = srv.response.y;
+[01;32m[K                                   ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:43:4:[m[K [01;31m[Kerror: [m[K‘[01m[KnextOrientation_[m[K’ was not declared in this scope
+    nextOrientation_ = geometry_msgs::Quaternion();
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:46:38:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Response {aka struct rospy_tutorials::AddTwoIntsResponse_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Klat[m[K’
+    nextOrientation_.z = srv.response.lat;
+[01;32m[K                                      ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:38:[m[K [01;31m[Kerror: [m[K‘[01m[Krospy_tutorials::AddTwoInts::Response {aka struct rospy_tutorials::AddTwoIntsResponse_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Klon[m[K’
+    nextOrientation_.w = srv.response.lon;
+[01;32m[K                                      ^[m[K
+make[2]: *** [CMakeFiles/operation_manager.dir/src/OperationManager.cpp.o] Error 1
+make[1]: *** [CMakeFiles/operation_manager.dir/all] Error 2
+make: *** [all] Error 2

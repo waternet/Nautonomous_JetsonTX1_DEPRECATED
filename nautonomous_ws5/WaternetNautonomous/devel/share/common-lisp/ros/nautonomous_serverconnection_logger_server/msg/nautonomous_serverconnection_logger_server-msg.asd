@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/share/common-lisp/ros/nautonomous_serverconnection_logger_server/msg/nautonomous_serverconnection_logger_server-msg.asd

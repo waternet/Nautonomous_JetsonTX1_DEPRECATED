@@ -1,0 +1,8 @@
+CMake Error: Error in cmake code at
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_actuation_simulator/CMakeLists.txt:117:
+Parse error.  Expected a command name, got unquoted argument with text "<<<<<<<".
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/build/nautonomous_actuation_simulator/CMakeFiles/CMakeOutput.log".
+See also "/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/build/nautonomous_actuation_simulator/CMakeFiles/CMakeError.log".
+Makefile:1034: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

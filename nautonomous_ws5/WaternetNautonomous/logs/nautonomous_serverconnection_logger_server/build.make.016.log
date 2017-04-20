@@ -1,0 +1,21 @@
+[  7%] [32mBuilding CXX object CMakeFiles/logger_server.dir/src/logger_server.cpp.o[0m
+[  7%] Built target std_msgs_generate_messages_eus
+[  7%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_LogGPS
+[  7%] Built target sensor_msgs_generate_messages_eus
+[  7%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_IsAuth
+[  7%] Built target std_msgs_generate_messages_py
+[  7%] Built target sensor_msgs_generate_messages_py
+[  7%] Built target std_msgs_generate_messages_lisp
+[  7%] Built target sensor_msgs_generate_messages_lisp
+[  7%] Built target sensor_msgs_generate_messages_cpp
+[  7%] Built target std_msgs_generate_messages_cpp
+[  7%] Built target sensor_msgs_generate_messages_nodejs
+[  7%] Built target std_msgs_generate_messages_nodejs
+[ 28%] Built target nautonomous_serverconnection_logger_server_generate_messages_eus
+[ 50%] Built target nautonomous_serverconnection_logger_server_generate_messages_py
+[ 64%] Built target nautonomous_serverconnection_logger_server_generate_messages_lisp
+[ 78%] Built target nautonomous_serverconnection_logger_server_generate_messages_cpp
+[ 92%] Built target nautonomous_serverconnection_logger_server_generate_messages_nodejs
+[ 92%] Built target nautonomous_serverconnection_logger_server_generate_messages
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/lib/nautonomous_serverconnection_logger_server/logger_server[0m
+[100%] Built target logger_server

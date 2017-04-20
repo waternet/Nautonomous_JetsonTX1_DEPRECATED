@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_logging_msgs/share/common-lisp/ros/nautonomous_logging_msgs/msg/_package.lisp

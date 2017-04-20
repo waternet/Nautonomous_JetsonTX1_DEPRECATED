@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -L/usr/local/lib  -g  -shared -Wl,-soname,libserial_unix.so -o /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libserial_unix.so CMakeFiles/serial_unix.dir/src/impl/Unix.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws4/install
+
+Name: nautonomous_navigation_navigate
+Description: Description of nautonomous_navigation_navigate
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws4/install/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws4/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_operation_action/lib/python2.7/dist-packages/nautonomous_operation_action/msg/_MissionActionGoal.py

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11   -shared -Wl,-soname,libnavigationlistener.so -o /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libnavigationlistener.so CMakeFiles/navigationlistener.dir/src/NavigationListener.cpp.o 

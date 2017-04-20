@@ -1,0 +1,4 @@
+CMake Error: Error in cmake code at
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_actuation_simulator/CMakeLists.txt:117:
+Parse error.  Expected a command name, got unquoted argument with text "<<<<<<<".
+make: *** [cmake_check_build_system] Error 1

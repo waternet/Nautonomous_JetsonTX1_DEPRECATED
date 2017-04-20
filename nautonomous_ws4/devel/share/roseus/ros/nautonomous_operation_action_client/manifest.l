@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operation_action_client/share/roseus/ros/nautonomous_operation_action_client/manifest.l

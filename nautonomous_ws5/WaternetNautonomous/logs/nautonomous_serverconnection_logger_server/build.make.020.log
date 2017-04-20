@@ -1,0 +1,33 @@
+[35m[1mScanning dependencies of target logger_server[0m
+[  7%] [32mBuilding CXX object CMakeFiles/logger_server.dir/src/logger_server.cpp.o[0m
+[  7%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_LogGPS
+[  7%] Built target std_msgs_generate_messages_eus
+[  7%] Built target sensor_msgs_generate_messages_eus
+[  7%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_IsAuth
+[  7%] Built target std_msgs_generate_messages_py
+[  7%] Built target sensor_msgs_generate_messages_py
+[  7%] Built target std_msgs_generate_messages_lisp
+[  7%] Built target sensor_msgs_generate_messages_lisp
+[  7%] Built target sensor_msgs_generate_messages_cpp
+[  7%] Built target std_msgs_generate_messages_cpp
+[  7%] Built target sensor_msgs_generate_messages_nodejs
+[  7%] Built target std_msgs_generate_messages_nodejs
+[ 14%] [34m[1mGenerating EusLisp code from nautonomous_serverconnection_logger_server/LogGPS.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from nautonomous_serverconnection_logger_server/IsAuth.msg[0m
+[ 28%] Built target nautonomous_serverconnection_logger_server_generate_messages_eus
+[ 35%] [34m[1mGenerating Python from MSG nautonomous_serverconnection_logger_server/LogGPS[0m
+[ 42%] [34m[1mGenerating Python from MSG nautonomous_serverconnection_logger_server/IsAuth[0m
+[ 50%] [34m[1mGenerating Python msg __init__.py for nautonomous_serverconnection_logger_server[0m
+[ 57%] [34m[1mGenerating Lisp code from nautonomous_serverconnection_logger_server/LogGPS.msg[0m
+[ 57%] Built target nautonomous_serverconnection_logger_server_generate_messages_py
+[ 64%] [34m[1mGenerating Lisp code from nautonomous_serverconnection_logger_server/IsAuth.msg[0m
+[ 71%] [34m[1mGenerating C++ code from nautonomous_serverconnection_logger_server/LogGPS.msg[0m
+[ 71%] Built target nautonomous_serverconnection_logger_server_generate_messages_lisp
+[ 78%] [34m[1mGenerating C++ code from nautonomous_serverconnection_logger_server/IsAuth.msg[0m
+[ 85%] [34m[1mGenerating Javascript code from nautonomous_serverconnection_logger_server/LogGPS.msg[0m
+[ 85%] Built target nautonomous_serverconnection_logger_server_generate_messages_cpp
+[ 92%] [34m[1mGenerating Javascript code from nautonomous_serverconnection_logger_server/IsAuth.msg[0m
+[ 92%] Built target nautonomous_serverconnection_logger_server_generate_messages_nodejs
+[ 92%] Built target nautonomous_serverconnection_logger_server_generate_messages
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/lib/nautonomous_serverconnection_logger_server/logger_server[0m
+[100%] Built target logger_server

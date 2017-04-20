@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server
+
+Name: nautonomous_serverconnection_logger_server
+Description: Description of nautonomous_serverconnection_logger_server
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/lib 
+Requires: message_runtime

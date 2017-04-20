@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -L/usr/local/lib  -g  -shared -Wl,-soname,libsend_actuation.so -o /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_synchronizer/lib/libsend_actuation.so CMakeFiles/send_actuation.dir/src/SendActuation.cpp.o 

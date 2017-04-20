@@ -1,0 +1,12 @@
+<launch>
+    <node pkg="rosauth" type="ros_mac_authentication" name="ros_mac_authentication" output="screen">
+        <param name="secret_file_location" value="/home/kilian/secret/nautonomous1.secret" />
+    </node>
+    <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch">
+        <arg name="port" value="9090" />
+        <arg name="ssl" value="true" />
+        <arg name="certfile" value="/home/kilian/ssl/ROS.crt" />
+        <arg name="keyfile" value="/home/kilian/ssl/ROS.key" />
+        <arg name="authenticate" value="true" />
+    </include>
+</launch>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11   -shared -Wl,-soname,liboperatorlistener.so -o /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/liboperatorlistener.so CMakeFiles/operatorlistener.dir/src/OperatorListener.cpp.o 

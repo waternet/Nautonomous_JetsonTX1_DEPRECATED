@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_navigation_configuration/share/nautonomous_navigation_configuration/cmake/nautonomous_navigation_configurationConfig.cmake

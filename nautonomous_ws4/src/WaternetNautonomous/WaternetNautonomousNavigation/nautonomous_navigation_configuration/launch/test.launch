@@ -1,0 +1,4 @@
+<launch>
+	<include file="$(find nautonomous_navigation_navigate)/launch/navigate.launch">
+	</include>
+</launch>

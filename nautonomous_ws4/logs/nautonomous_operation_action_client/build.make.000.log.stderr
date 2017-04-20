@@ -1,0 +1,7 @@
+In file included from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/MoveBaseActionClient.cpp:2:0[m[K:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/include/../include/nautonomous_operation_action_client/MoveBaseActionClient.h:14:63:[m[K [01;31m[Kfatal error: [m[Knautonomous_operation_action_client/MissionAction.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/move_base_action_client.dir/src/MoveBaseActionClient.cpp.o] Error 1
+make[1]: *** [CMakeFiles/move_base_action_client.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

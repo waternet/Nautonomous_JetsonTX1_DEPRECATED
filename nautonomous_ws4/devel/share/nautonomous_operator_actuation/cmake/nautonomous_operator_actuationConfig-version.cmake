@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_operator_actuation/share/nautonomous_operator_actuation/cmake/nautonomous_operator_actuationConfig-version.cmake

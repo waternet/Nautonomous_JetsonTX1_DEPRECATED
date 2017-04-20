@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/ublox_serialization/share/ublox_serialization/cmake/ublox_serializationConfig.cmake

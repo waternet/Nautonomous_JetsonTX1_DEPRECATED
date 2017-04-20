@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel
+install: false
+install_space: /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/install
+profile: default
+source_space: /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src
+workspace: /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous

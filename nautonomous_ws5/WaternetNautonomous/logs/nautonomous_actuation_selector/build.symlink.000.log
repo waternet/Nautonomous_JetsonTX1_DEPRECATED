@@ -1,0 +1,6 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/libautonomous_output.so
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/libmanual_output.so
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/nautonomous_actuation_selector/output_multiplexer
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/nautonomous_actuation_selector.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig-version.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_actuation_selector/cmake/nautonomous_actuation_selectorConfig.cmake

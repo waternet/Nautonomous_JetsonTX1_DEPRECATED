@@ -1,0 +1,2 @@
+set(nautonomous_navigation_navigate_MESSAGE_FILES "")
+set(nautonomous_navigation_navigate_SERVICE_FILES "/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousNavigation/nautonomous_navigation_navigate/srv/AddTwoInts.srv")

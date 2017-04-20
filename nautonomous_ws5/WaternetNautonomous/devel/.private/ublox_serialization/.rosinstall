@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/ublox_serialization/setup.sh

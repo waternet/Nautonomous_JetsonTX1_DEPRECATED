@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target nautonomous_transforms_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/nautonomous_transforms_node.dir/src/nautonomous_transforms_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_navigation_transform/lib/nautonomous_navigation_transform/nautonomous_transforms_node[0m
+[100%] Built target nautonomous_transforms_node

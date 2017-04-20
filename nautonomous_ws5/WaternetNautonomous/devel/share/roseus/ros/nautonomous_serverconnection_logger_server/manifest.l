@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_serverconnection_logger_server/share/roseus/ros/nautonomous_serverconnection_logger_server/manifest.l

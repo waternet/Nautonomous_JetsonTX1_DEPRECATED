@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target logger_server[0m
+[  7%] [32mBuilding CXX object CMakeFiles/logger_server.dir/src/logger_server.cpp.o[0m
+[35m[1mScanning dependencies of target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_LogGPS[0m
+[  7%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_LogGPS
+In file included from [01m[K/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_serverconnection_logger_server/src/logger_server.cpp:1:0[m[K:
+[01m[K/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_serverconnection_logger_server/include/nautonomous_serverconnection_logger_server/logger_server.h:6:63:[m[K [01;31m[Kfatal error: [m[Knautonomous_serverconnection_logger_server/LogGPS.h: No such file or directory
+compilation terminated.
+CMakeFiles/logger_server.dir/build.make:62: recipe for target 'CMakeFiles/logger_server.dir/src/logger_server.cpp.o' failed
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/logger_server.dir/all' failed
+Makefile:138: recipe for target 'all' failed
+make[2]: *** [CMakeFiles/logger_server.dir/src/logger_server.cpp.o] Error 1
+make[1]: *** [CMakeFiles/logger_server.dir/all] Error 2
+make: *** [all] Error 2

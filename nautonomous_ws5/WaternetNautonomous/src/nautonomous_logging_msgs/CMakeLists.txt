@@ -1,0 +1,44 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(nautonomous_logging_msgs)
+
+## Add support for C++11, supported in ROS Kinetic and newer
+set(CMAKE_CXX_FLAGS "-std=c++11 -L/usr/local/lib ${CMAKE_CXX_FLAGS} -g")
+
+## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+## is used, also find other catkin packages
+find_package(catkin REQUIRED COMPONENTS
+  message_generation
+  roscpp
+  rospy
+  std_msgs
+  sensor_msgs
+  )
+
+## Uncomment this if the package has a setup.py. This macro ensures
+## modules and global scripts declared therein get installed
+## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html
+# catkin_python_setup()
+
+## Generate messages in the 'msg' folder
+add_message_files(
+  FILES
+  LogGPS.msg
+)
+
+
+## Generate added messages and services with any dependencies listed here
+generate_messages(
+  DEPENDENCIES
+  std_msgs  # Or other packages containing msgs
+  sensor_msgs
+)
+
+catkin_package(
+  CATKIN_DEPENDS message_runtime
+#  INCLUDE_DIRS include
+#  LIBRARIES nautonomous_logging_msgs
+#  CATKIN_DEPENDS other_catkin_pkg
+#  DEPENDS system_lib
+)
+

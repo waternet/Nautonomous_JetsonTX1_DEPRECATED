@@ -1,0 +1,7 @@
+[ 14%] Built target operatorlistener
+[ 28%] Built target bluetoothcommunicator
+[ 42%] Built target navigationlistener
+[ 57%] Built target enums
+[ 71%] Built target deviceinq
+[ 85%] Built target btserialportbinding
+[100%] Built target bluetooth_manager

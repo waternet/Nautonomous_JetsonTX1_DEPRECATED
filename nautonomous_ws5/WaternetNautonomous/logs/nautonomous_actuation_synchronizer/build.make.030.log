@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target serial_unix[0m
+[  8%] [32mBuilding CXX object CMakeFiles/serial_unix.dir/src/impl/Unix.cpp.o[0m
+[ 16%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libserial_unix.so[0m
+[ 16%] Built target serial_unix
+[35m[1mScanning dependencies of target send_actuation[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/send_actuation.dir/src/SendActuation.cpp.o[0m
+[35m[1mScanning dependencies of target receive_actuation[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/receive_actuation.dir/src/ReceiveActuation.cpp.o[0m
+[ 41%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libsend_actuation.so[0m
+[ 41%] Built target send_actuation
+[35m[1mScanning dependencies of target serial[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/Serial.cpp.o[0m
+[35m[1mScanning dependencies of target sabertooth[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/sabertooth.dir/src/Sabertooth.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libreceive_actuation.so[0m
+[ 66%] Built target receive_actuation
+[ 75%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libserial.so[0m
+[ 75%] Built target serial
+[ 83%] [32m[1mLinking CXX shared library /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/libsabertooth.so[0m
+[ 83%] Built target sabertooth
+[35m[1mScanning dependencies of target command_actuation[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/command_actuation.dir/src/CommandActuation.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/nautonomous_actuation_synchronizer/lib/nautonomous_actuation_synchronizer/command_actuation[0m
+[100%] Built target command_actuation

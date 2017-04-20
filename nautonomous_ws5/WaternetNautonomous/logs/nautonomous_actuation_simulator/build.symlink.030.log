@@ -1,0 +1,4 @@
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/nautonomous_actuation_simulator/nautonomous_propulsion_sim
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/lib/pkgconfig/nautonomous_actuation_simulator.pc
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_actuation_simulator/cmake/nautonomous_actuation_simulatorConfig-version.cmake
+Symlinking /home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/share/nautonomous_actuation_simulator/cmake/nautonomous_actuation_simulatorConfig.cmake

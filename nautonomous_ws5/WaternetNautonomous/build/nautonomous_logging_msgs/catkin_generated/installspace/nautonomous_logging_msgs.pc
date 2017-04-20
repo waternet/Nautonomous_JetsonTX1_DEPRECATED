@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/install
+
+Name: nautonomous_logging_msgs
+Description: Description of nautonomous_logging_msgs
+Version: 0.0.0
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/install/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/install/lib 
+Requires: message_runtime

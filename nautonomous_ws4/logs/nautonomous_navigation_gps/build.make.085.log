@@ -1,0 +1,4 @@
+[ 25%] Built target wpk_odometry_node
+[ 50%] Built target utm_odometry_node
+[ 75%] Built target amsterdam_odometry_node
+[100%] Built target coenhaven_odometry_node

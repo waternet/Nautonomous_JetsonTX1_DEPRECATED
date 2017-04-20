@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/ublox_gps/share/ublox_gps/cmake/ublox_gpsConfig-version.cmake

@@ -1,0 +1,11 @@
+WaternetNautonomous/WaternetNautonomousCollaboration/nautonomous_collaboration_bluetooth
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libenums.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libenums.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libbluetoothcommunicator.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libbluetoothcommunicator.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/liboperatorlistener.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/liboperatorlistener.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libbtserialportbinding.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libbtserialportbinding.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libdeviceinq.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libdeviceinq.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/libnavigationlistener.so /home/ubuntu/ROS/nautonomous_ws4/devel/lib/libnavigationlistener.so
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/nautonomous_collaboration_bluetooth/bluetooth_manager /home/ubuntu/ROS/nautonomous_ws4/devel/lib/nautonomous_collaboration_bluetooth/bluetooth_manager
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/lib/pkgconfig/nautonomous_collaboration_bluetooth.pc /home/ubuntu/ROS/nautonomous_ws4/devel/lib/pkgconfig/nautonomous_collaboration_bluetooth.pc
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/share/nautonomous_collaboration_bluetooth/cmake/nautonomous_collaboration_bluetoothConfig.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/nautonomous_collaboration_bluetooth/cmake/nautonomous_collaboration_bluetoothConfig.cmake
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_collaboration_bluetooth/share/nautonomous_collaboration_bluetooth/cmake/nautonomous_collaboration_bluetoothConfig-version.cmake /home/ubuntu/ROS/nautonomous_ws4/devel/share/nautonomous_collaboration_bluetooth/cmake/nautonomous_collaboration_bluetoothConfig-version.cmake

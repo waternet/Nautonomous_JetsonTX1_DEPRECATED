@@ -1,0 +1,1 @@
+/home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_synchronizer/lib/pkgconfig/nautonomous_actuation_synchronizer.pc

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousCollaboration/nautonomous_collaboration_bluetooth/include/nautonomous_cooperation_bluetooth_node/Enums.h
+string
+-
+
+/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousCollaboration/nautonomous_collaboration_bluetooth/src/Enums.cpp
+../include/nautonomous_cooperation_bluetooth_node/Enums.h
+/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousCollaboration/nautonomous_collaboration_bluetooth/include/nautonomous_cooperation_bluetooth_node/Enums.h
+vector
+-
+string
+-
+numeric
+-
+iostream
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/ublox_gps
+
+Name: ublox_gps
+Description: Description of ublox_gps
+Version: 0.0.4
+Cflags: -I/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/src/nautonomous_gps_ublox/ublox_gps/include
+Libs: -L/home/ubuntu/ROS/nautonomous_ws5/WaternetNautonomous/devel/.private/ublox_gps/lib -lublox_gps
+Requires: roscpp ublox_msgs ublox_serialization

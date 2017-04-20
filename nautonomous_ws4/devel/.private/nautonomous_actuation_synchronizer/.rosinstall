@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/ROS/nautonomous_ws4/devel/.private/nautonomous_actuation_synchronizer/setup.sh

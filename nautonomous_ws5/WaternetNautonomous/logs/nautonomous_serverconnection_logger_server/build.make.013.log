@@ -1,0 +1,19 @@
+[ 14%] Built target logger_server
+[ 14%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_LogGPS
+[ 14%] Built target std_msgs_generate_messages_eus
+[ 14%] Built target sensor_msgs_generate_messages_eus
+[ 14%] Built target std_msgs_generate_messages_py
+[ 14%] Built target sensor_msgs_generate_messages_py
+[ 14%] Built target std_msgs_generate_messages_lisp
+[ 14%] Built target _nautonomous_serverconnection_logger_server_generate_messages_check_deps_IsAuth
+[ 14%] Built target sensor_msgs_generate_messages_lisp
+[ 14%] Built target sensor_msgs_generate_messages_cpp
+[ 14%] Built target std_msgs_generate_messages_cpp
+[ 14%] Built target sensor_msgs_generate_messages_nodejs
+[ 14%] Built target std_msgs_generate_messages_nodejs
+[ 35%] Built target nautonomous_serverconnection_logger_server_generate_messages_eus
+[ 57%] Built target nautonomous_serverconnection_logger_server_generate_messages_py
+[ 71%] Built target nautonomous_serverconnection_logger_server_generate_messages_lisp
+[ 85%] Built target nautonomous_serverconnection_logger_server_generate_messages_cpp
+[100%] Built target nautonomous_serverconnection_logger_server_generate_messages_nodejs
+[100%] Built target nautonomous_serverconnection_logger_server_generate_messages

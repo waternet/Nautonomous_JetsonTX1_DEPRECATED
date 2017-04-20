@@ -1,0 +1,146 @@
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionResult
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionActionGoal
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionActionResult
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_Operation
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionActionFeedback
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_Status
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionGoal
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionAction
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target _nautonomous_operation_action_client_generate_messages_check_deps_MissionFeedback
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  3%] Built target move_base_action_client
+[  3%] Built target sensor_msgs_generate_messages_py
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[  3%] Built target tf2_msgs_generate_messages_lisp
+[  3%] Built target tf2_msgs_generate_messages_eus
+[  3%] Built target actionlib_generate_messages_eus
+[  3%] Built target tf2_msgs_generate_messages_py
+[  3%] Built target roscpp_generate_messages_lisp
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[  3%] Built target roscpp_generate_messages_nodejs
+[  3%] Built target tf_generate_messages_eus
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[  3%] Built target tf2_msgs_generate_messages_cpp
+[  3%] Built target tf_generate_messages_cpp
+[  3%] Built target roscpp_generate_messages_eus
+[  3%] Built target roscpp_generate_messages_cpp
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[  3%] Built target actionlib_generate_messages_py
+[  3%] Built target actionlib_generate_messages_lisp
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[  3%] Built target rosgraph_msgs_generate_messages_py
+[  3%] Built target roscpp_generate_messages_py
+[  3%] Built target tf_generate_messages_lisp
+[  3%] Built target tf_generate_messages_py
+[  3%] Built target tf_generate_messages_nodejs
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[  3%] Built target actionlib_generate_messages_nodejs
+[  3%] Built target sensor_msgs_generate_messages_eus
+[  3%] Built target sensor_msgs_generate_messages_lisp
+[  3%] Built target actionlib_generate_messages_cpp
+[ 22%] Built target nautonomous_operation_action_client_generate_messages_py
+[ 41%] Built target nautonomous_operation_action_client_generate_messages_eus
+[ 58%] Built target nautonomous_operation_action_client_generate_messages_cpp
+[ 75%] Built target nautonomous_operation_action_client_generate_messages_nodejs
+[ 92%] Built target nautonomous_operation_action_client_generate_messages_lisp
+[ 96%] Built target mission_server
+[ 96%] Built target nautonomous_operation_action_client_generate_messages
+[35m[1mScanning dependencies of target operation_manager[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/operation_manager.dir/src/OperationManager.cpp.o[0m
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/../include/nautonomous_operation_action_client/OperationManager.h:4[m[K,
+                 from [01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:1[m[K:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:48:[m[K [01;31m[Kerror: [m[K‘[01m[Kx[m[K’ was not declared in this scope
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) ROS_LOG(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:4:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:51:[m[K [01;31m[Kerror: [m[K‘[01m[Ky[m[K’ was not declared in this scope
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K                                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) ROS_LOG(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:4:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:54:[m[K [01;31m[Kerror: [m[K‘[01m[Klat[m[K’ was not declared in this scope
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K                                                      ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) ROS_LOG(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:4:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K    ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:59:[m[K [01;31m[Kerror: [m[K‘[01m[Klon[m[K’ was not declared in this scope
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K                                                           ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) ROS_LOG(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/ubuntu/ROS/nautonomous_ws4/src/WaternetNautonomous/WaternetNautonomousOperation/nautonomous_operation_action/src/OperationManager.cpp:47:4:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+    ROS_INFO("x: %d, y: %d / lat: %f, lon: %f", x, y, lat, lon);  
+[01;32m[K    ^[m[K
+CMakeFiles/operation_manager.dir/build.make:62: recipe for target 'CMakeFiles/operation_manager.dir/src/OperationManager.cpp.o' failed
+make[2]: *** [CMakeFiles/operation_manager.dir/src/OperationManager.cpp.o] Error 1
+make[1]: *** [CMakeFiles/operation_manager.dir/all] Error 2
+make: *** [all] Error 2
+CMakeFiles/Makefile2:1770: recipe for target 'CMakeFiles/operation_manager.dir/all' failed
+Makefile:138: recipe for target 'all' failed
